@@ -1,5 +1,4 @@
 "# lacky-portfolio" 
 
 
-Contributed By: Ms. Ananya Singh 
-                Mr. Lacky Singh
+Contributed By: Mr. Lacky Singh
